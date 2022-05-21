@@ -24,6 +24,6 @@ The dataset of this project contains 1 Microsoft Excel file which I imported int
 * __Order Purchase Status__: The Total Order of Items Purchased is 1,823 which is 91.15% of total order made while the Total Order of Items Not Purchased is 177 which is 8.85% of the total.
 * __Order Not Purchased By State, Company and Item__: 'New Mexico' has the highest total orders not purchased of 50 while 'Texas' has the least of 35.
 * __Revenue and Quantity By Company__: 'Company D' has the highest revenue of $122,821 generated and quantity of 539 items sold while 'Company T' has $83,691 with the least revenue generated and quantity of 379 items sold.
-* __Revenue and Quantity By Sales Person__: 'May 2018' has the highest revenue of $118,523 generated and quantity of 597 items sold while 'Oct 2019' has $37,415 with the least revenue generated and quantity of 175 items sold.
-* __Revenue and Quantity By State__:
-* __Revenue and Quantity By Item __:
+* __Revenue and Quantity By Sales Person__: 'Anna Weber' has the highest revenue of $276,378 generated and quantity of 1,232 items sold while 'Kim Fishman' has $231,788 with the least revenue generated and quantity of 1,022 items sold.
+* __Revenue and Quantity By State__: 'Texas' has the highest revenue of $532,135 generated and quantity of 2,395 items sold while 'New Mexico' has $492,984 with the least revenue generated and quantity of 2,206 items sold.
+* __Revenue and Quantity By Item __: 'Item 1' has the highest revenue of $736,953 generated and quantity of 1,847 items sold while 'Item 3' has $124,890 with the least revenue generated and quantity of 1,810 items sold.
