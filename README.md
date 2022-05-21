@@ -3,7 +3,7 @@ A repository for the analysis of the sales performance of superstores in 4 major
 The datasets used for this project are included in the repository. <br />
 
 ## Introduction
-In this project, I analysed the records of superstores sales in 4 major states (Arizona, California, New Mexico and Texas) in the United States of America from the year 2018 and 2019. <br />
+In this project, I analysed the records of superstores sales in 4 major states (Arizona, California, New Mexico and Texas) in the United States of America for the year 2018 and 2019. <br />
 The aim of the project is to;
 * Analyse the sales trend from the beginning of 2018 to the end of 2019. <br />
 * Increase the revenue to be generated for the following year. <br />
@@ -20,7 +20,7 @@ The dataset of this project contains 1 Microsoft Excel file which I imported int
 * Total Number of Sales Person = 8
 
 ## Insights From My Analysis
-* __Monthly Revenue Generated and Quantity Sold__: 'May 2018' has the highest revenue of $118,523 generated and quantity of 597 items sold while 'Oct 2019' has $37,415 with the least revenue generated and quantity of 175 items sold.
+* __Monthly Revenue Generated and Quantity Sold__: 'March 2019' has the highest revenue of $127,074 generated and quantity of 516 items sold while 'Oct 2019' has $37,415 with the least revenue generated and quantity of 175 items sold.
 * __Order Purchase Status__: The Total Order of Items Purchased is 1,823 which is 91.15% of total order made while the Total Order of Items Not Purchased is 177 which is 8.85% of the total.
 * __Order Not Purchased By State, Company and Item__: 'New Mexico' has the highest total orders not purchased of 50 while 'Texas' has the least of 35.
 * __Revenue and Quantity By Company__: 'Company D' has the highest revenue of $122,821 generated and quantity of 539 items sold while 'Company T' has $83,691 with the least revenue generated and quantity of 379 items sold.
@@ -29,12 +29,13 @@ The dataset of this project contains 1 Microsoft Excel file which I imported int
 * __Revenue and Quantity By Item __: 'Item 1' has the highest revenue of $736,953 generated and quantity of 1,847 items sold while 'Item 3' has $124,890 with the least revenue generated and quantity of 1,810 items sold.
 
 ## Recommendations
-From my analysis, I recommend that more taxi cabs should be made available to pickup and dropoff passengers;
-* In Manhattan
-* In the most popular pickup and dropoff locations such as 'East Harlem North', 'East Harlem South', 'Central Harlem North', 'Central Harlem', 'Astoria' etc.
-* On Saturdays every weekend by 12:00:00 AM.
-* In the '4th Week' of every year.
-* From 'Verifone Inc.'.
+From my analysis, I recommend that the Marketing team should conduct a market research analysis comparing the prices of items of competitors. The following recommendations will also help to increase sales and thus revenue;
+* From the trend during certain months in the year, there was a spike in revenue generated and quantity sold e.g February to March and April to May in 2018, also from February to March and April to May in 2019. During these time periods when there is increase in sales, marketing strategies to increase customers should intensify. Also during time period when there is a decline in sales, strategies to reduces prices of items such as 'Sales Promo' should be put in place. 
+* The Marketing and Communications team should communicate effectively to companies who placed orders for items but did not purchase by sending them marketing materials such as emails, advertisements etc to enable them make a buying decision.
+* For order of items that were not purchased due to item unavailability, items should be restocked and made available often to prevent them from being out of stock when demand is placed for them.
+* Incentives, bonuses and promotion should be given to the top 3 sales persons with the highest sales and revenue generated yearly. This will encourage those sales persons like 'Kim Fishman' and 'Ann Lee' to put in more effort in making more sales.
+* The prices of items in California and New Mexico should be reduced to increase demand and sales of items.
+* The price of Item 5 should be reduced to increase demand and thus the quantity sold while the prices of Items 3 and 4 should be increased since the demand and quantity sold is high.
 
 ## Relevant Link
 * [LinkedIn](https://www.linkedin.com/in/rukevweevwrujae/)
