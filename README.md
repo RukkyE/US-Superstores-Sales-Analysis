@@ -27,3 +27,14 @@ The dataset of this project contains 1 Microsoft Excel file which I imported int
 * __Revenue and Quantity By Sales Person__: 'Anna Weber' has the highest revenue of $276,378 generated and quantity of 1,232 items sold while 'Kim Fishman' has $231,788 with the least revenue generated and quantity of 1,022 items sold.
 * __Revenue and Quantity By State__: 'Texas' has the highest revenue of $532,135 generated and quantity of 2,395 items sold while 'New Mexico' has $492,984 with the least revenue generated and quantity of 2,206 items sold.
 * __Revenue and Quantity By Item __: 'Item 1' has the highest revenue of $736,953 generated and quantity of 1,847 items sold while 'Item 3' has $124,890 with the least revenue generated and quantity of 1,810 items sold.
+
+## Recommendations
+From my analysis, I recommend that more taxi cabs should be made available to pickup and dropoff passengers;
+* In Manhattan
+* In the most popular pickup and dropoff locations such as 'East Harlem North', 'East Harlem South', 'Central Harlem North', 'Central Harlem', 'Astoria' etc.
+* On Saturdays every weekend by 12:00:00 AM.
+* In the '4th Week' of every year.
+* From 'Verifone Inc.'.
+
+## Relevant Link
+* [LinkedIn](https://www.linkedin.com/in/rukevweevwrujae/)
